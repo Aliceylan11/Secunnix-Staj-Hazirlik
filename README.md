@@ -1,6 +1,7 @@
 # 🛡️ Secunnix Staj Hazırlık Günlüğü (Hard Mode)
 
 Merhaba, ben **Ali Ceylan**. Gümüşhane Üniversitesi Bilgisayar Programcılığı Bölüm 1.siyim.
+
 Bu repo, **Secunnix** bünyesindeki stajım öncesinde, yetkinliklerimi geliştirmek için yaptığım çalışmaların, aldığım notların ve teknik analizlerin dijital defteridir.
 
 ## 🎯 Hedefler
